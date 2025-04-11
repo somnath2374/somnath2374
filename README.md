@@ -24,11 +24,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building thin
 
 ![Somnath's GitHub stats](https://github-readme-stats.vercel.app/api?username=somnath2374&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somnath2374&layout=compact&theme=radical)
-
 ## 📈 Contribution Graph
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=somnath2374&theme=highcontrast)](https://git.io/streak-stats)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=somnath2374&theme=react-dark)
 
 ---
 
